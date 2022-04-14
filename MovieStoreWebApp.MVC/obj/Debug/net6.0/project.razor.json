@@ -1,5 +1,5 @@
 {
-  "FilePath": "/home/user/C#/MovieStoreWebApp.MVC/MovieStoreWebApp.MVC.csproj",
+  "FilePath": "/home/user/C#/MovieStoreApp/MovieStoreWebApp.MVC/MovieStoreWebApp.MVC.csproj",
   "Configuration": {
     "ConfigurationName": "MVC-3.0",
     "LanguageVersion": "6.0",
@@ -16298,53 +16298,68 @@
   "RootNamespace": "MovieStoreWebApp.MVC",
   "Documents": [
     {
-      "FilePath": "/home/user/C#/MovieStoreWebApp.MVC/Views/Movie/Detail.cshtml",
-      "TargetPath": "Views\\Movie\\Detail.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "/home/user/C#/MovieStoreWebApp.MVC/Views/Login/Index.cshtml",
-      "TargetPath": "Views\\Login\\Index.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "/home/user/C#/MovieStoreWebApp.MVC/Views/Shared/Error.cshtml",
+      "FilePath": "/home/user/C#/MovieStoreApp/MovieStoreWebApp.MVC/Views/Shared/Error.cshtml",
       "TargetPath": "Views\\Shared\\Error.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "/home/user/C#/MovieStoreWebApp.MVC/Views/Shared/_ValidationScriptsPartial.cshtml",
+      "FilePath": "/home/user/C#/MovieStoreApp/MovieStoreWebApp.MVC/Views/Admin/Index.cshtml",
+      "TargetPath": "Views\\Admin\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/home/user/C#/MovieStoreApp/MovieStoreWebApp.MVC/Views/MovieUser/Index.cshtml",
+      "TargetPath": "Views\\MovieUser\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/home/user/C#/MovieStoreApp/MovieStoreWebApp.MVC/Views/Movie/Detail.cshtml",
+      "TargetPath": "Views\\Movie\\Detail.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/home/user/C#/MovieStoreApp/MovieStoreWebApp.MVC/Views/Shared/_ValidationScriptsPartial.cshtml",
       "TargetPath": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "/home/user/C#/MovieStoreWebApp.MVC/Views/_ViewImports.cshtml",
-      "TargetPath": "Views\\_ViewImports.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "/home/user/C#/MovieStoreWebApp.MVC/Views/Home/Index.cshtml",
-      "TargetPath": "Views\\Home\\Index.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "/home/user/C#/MovieStoreWebApp.MVC/Views/_ViewStart.cshtml",
-      "TargetPath": "Views\\_ViewStart.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "/home/user/C#/MovieStoreWebApp.MVC/Views/Movie/Index.cshtml",
-      "TargetPath": "Views\\Movie\\Index.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "/home/user/C#/MovieStoreWebApp.MVC/Views/Shared/_Layout.cshtml",
+      "FilePath": "/home/user/C#/MovieStoreApp/MovieStoreWebApp.MVC/Views/Shared/_Layout.cshtml",
       "TargetPath": "Views\\Shared\\_Layout.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "/home/user/C#/MovieStoreWebApp.MVC/Views/Home/Privacy.cshtml",
+      "FilePath": "/home/user/C#/MovieStoreApp/MovieStoreWebApp.MVC/Views/Home/Privacy.cshtml",
       "TargetPath": "Views\\Home\\Privacy.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/home/user/C#/MovieStoreApp/MovieStoreWebApp.MVC/Views/Home/Index.cshtml",
+      "TargetPath": "Views\\Home\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/home/user/C#/MovieStoreApp/MovieStoreWebApp.MVC/Views/_ViewStart.cshtml",
+      "TargetPath": "Views\\_ViewStart.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/home/user/C#/MovieStoreApp/MovieStoreWebApp.MVC/Views/Movie/Index.cshtml",
+      "TargetPath": "Views\\Movie\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/home/user/C#/MovieStoreApp/MovieStoreWebApp.MVC/Views/_ViewImports.cshtml",
+      "TargetPath": "Views\\_ViewImports.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/home/user/C#/MovieStoreApp/MovieStoreWebApp.MVC/Views/Account/Index.cshtml",
+      "TargetPath": "Views\\Account\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/home/user/C#/MovieStoreApp/MovieStoreWebApp.MVC/Views/Cast/Index.cshtml",
+      "TargetPath": "Views\\Cast\\Index.cshtml",
       "FileKind": "mvc"
     }
   ],
