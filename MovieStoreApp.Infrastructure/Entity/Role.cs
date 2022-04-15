@@ -1,6 +1,14 @@
-namespace MovieStoreApp.Infrastrcture;
+using System.ComponentModel.DataAnnotations;
+using System.ComponentModel.DataAnnotations.Schema;
 
-public class Role {
-    public int RoleId { get; set; }
-    public string RoleName { get; set; }
+namespace MovieStoreApp.Infrastructure.Entity 
+{
+    public class Role {
+        [Required]
+        public int RoleId { get; set; }
+        [MaxLength(128)]
+        [Column(TypeName = "Varchar")]
+        public string RoleName { get; set; }
+    }
 }
+

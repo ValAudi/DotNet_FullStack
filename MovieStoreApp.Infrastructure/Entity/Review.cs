@@ -1,9 +1,19 @@
-namespace MovieStoreApp.Infrastrcture;
+using System.ComponentModel.DataAnnotations;
+using System.ComponentModel.DataAnnotations.Schema;
 
-public class Review {
-    public int MovieId { get; set; }
-    public int UserId { get; set; }
-    public decimal Rating { get; set; }
-    public string ReviewText { get; set; }
-    
+namespace MovieStoreApp.Infrastructure.Entity 
+{
+    public class Review {
+        [Required]
+        public int MovieId { get; set; }
+        [Required]
+        public int UserId { get; set; }
+        [Required]
+        public decimal Rating { get; set; }
+        [MaxLength(1000)]
+        [Column(TypeName = "Varchar")]
+        public string ReviewText { get; set; }
+        
+    }
 }
+

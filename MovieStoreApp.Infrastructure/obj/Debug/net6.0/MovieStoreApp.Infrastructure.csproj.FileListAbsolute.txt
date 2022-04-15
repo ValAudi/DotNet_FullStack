@@ -1,0 +1,17 @@
+/home/user/C#/MovieStoreApp/MovieStoreApp.Infrastructure/bin/Debug/net6.0/MovieStoreApp.Infrastructure.deps.json
+/home/user/C#/MovieStoreApp/MovieStoreApp.Infrastructure/bin/Debug/net6.0/MovieStoreApp.Infrastructure.runtimeconfig.json
+/home/user/C#/MovieStoreApp/MovieStoreApp.Infrastructure/bin/Debug/net6.0/MovieStoreApp.Infrastructure.dll
+/home/user/C#/MovieStoreApp/MovieStoreApp.Infrastructure/bin/Debug/net6.0/MovieStoreApp.Infrastructure.pdb
+/home/user/C#/MovieStoreApp/MovieStoreApp.Infrastructure/bin/Debug/net6.0/MovieStoreApp.Core.dll
+/home/user/C#/MovieStoreApp/MovieStoreApp.Infrastructure/bin/Debug/net6.0/MovieStoreApp.Core.pdb
+/home/user/C#/MovieStoreApp/MovieStoreApp.Infrastructure/obj/Debug/net6.0/MovieStoreApp.Infrastructure.csproj.AssemblyReference.cache
+/home/user/C#/MovieStoreApp/MovieStoreApp.Infrastructure/obj/Debug/net6.0/MovieStoreApp.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+/home/user/C#/MovieStoreApp/MovieStoreApp.Infrastructure/obj/Debug/net6.0/MovieStoreApp.Infrastructure.AssemblyInfoInputs.cache
+/home/user/C#/MovieStoreApp/MovieStoreApp.Infrastructure/obj/Debug/net6.0/MovieStoreApp.Infrastructure.AssemblyInfo.cs
+/home/user/C#/MovieStoreApp/MovieStoreApp.Infrastructure/obj/Debug/net6.0/MovieStoreApp.Infrastructure.csproj.CoreCompileInputs.cache
+/home/user/C#/MovieStoreApp/MovieStoreApp.Infrastructure/obj/Debug/net6.0/MovieStoreApp.Infrastructure.csproj.CopyComplete
+/home/user/C#/MovieStoreApp/MovieStoreApp.Infrastructure/obj/Debug/net6.0/MovieStoreApp.Infrastructure.dll
+/home/user/C#/MovieStoreApp/MovieStoreApp.Infrastructure/obj/Debug/net6.0/refint/MovieStoreApp.Infrastructure.dll
+/home/user/C#/MovieStoreApp/MovieStoreApp.Infrastructure/obj/Debug/net6.0/MovieStoreApp.Infrastructure.pdb
+/home/user/C#/MovieStoreApp/MovieStoreApp.Infrastructure/obj/Debug/net6.0/MovieStoreApp.Infrastructure.genruntimeconfig.cache
+/home/user/C#/MovieStoreApp/MovieStoreApp.Infrastructure/obj/Debug/net6.0/ref/MovieStoreApp.Infrastructure.dll

@@ -1,6 +1,15 @@
-namespace MovieStoreApp.Infrastrcture;
+using System.ComponentModel.DataAnnotations;
+using System.ComponentModel.DataAnnotations.Schema;
 
-public class Genre {
-    public int GenreId { get; set; }
-    public string GenreName { get; set; }
+namespace MovieStoreApp.Infrastructure.Entity
+{
+    public class Genre {
+        [Required]
+        public int GenreId { get; set; }
+        [Required]
+        [MaxLength(30)]
+        [Column(TypeName = "Varchar")]
+        public string GenreName { get; set; }
+    }
 }
+
