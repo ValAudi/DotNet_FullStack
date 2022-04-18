@@ -2,7 +2,7 @@ using MovieStoreApp.Core.Entity;
 
 namespace MovieStoreApp.Core.Contracts.Repository 
 {
-    public interface IReportRepository: IRepository<Review> {
+    public interface IRoleRepository: IRepository<Role> {
 
     }
 }

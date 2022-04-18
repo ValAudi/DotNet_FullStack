@@ -1,7 +1,7 @@
 using System.ComponentModel.DataAnnotations;
 using System.ComponentModel.DataAnnotations.Schema;
 
-namespace MovieStoreApp.Core.Entity 
+namespace MovieStoreApp.Core.Models 
 {
     public class Movie {
         [Required]

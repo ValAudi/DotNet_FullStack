@@ -1,18 +1,19 @@
 using System.ComponentModel.DataAnnotations;
 using System.ComponentModel.DataAnnotations.Schema;
 
-namespace MovieStoreApp.Core.Entity 
+namespace MovieStoreApp.Core.Models 
 {
-    public class MovieCast {
+    public class Review {
         [Required]
         public int MovieId { get; set; }
         [Required]
-        public int CastId { get; set; }
+        public int UserId { get; set; }
         [Required]
-        [MaxLength(128)]
+        public decimal Rating { get; set; }
+        [MaxLength(1000)]
         [Column(TypeName = "Varchar")]
-        public string character {get; set; }
+        public string ReviewText { get; set; }
+        
     }
 }
 
- 

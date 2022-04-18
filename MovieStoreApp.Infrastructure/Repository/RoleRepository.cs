@@ -4,9 +4,9 @@ using MovieStoreApp.Core.Contracts.Repository;
 
 namespace MovieStoreApp.Infrastructure.Repository 
 {
-    public class PurchaseRepository: BaseRepository<Purchase>, IPurchaseRepository {
+    public class RoleRepository: BaseRepository<Role>, IRoleRepository {
         MovieStoreContext db;
-        public PurchaseRepository(MovieStoreContext _db):base(_db)
+        public RoleRepository(MovieStoreContext _db):base(_db)
         {
             db = _db;
         }

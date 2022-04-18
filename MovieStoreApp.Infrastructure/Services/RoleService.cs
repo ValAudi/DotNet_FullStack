@@ -3,12 +3,11 @@ using MovieStoreApp.Core.Contracts.Repository;
 
 namespace MovieStoreApp.Infrastructure.Service 
 {
-    public class CastService: ICastService {
-        ICastRepository castRepository;
-
-        public CastService(ICastRepository _c)
+    public class RoleService: IRoleService {
+        IRoleRepository roleRepository;
+        public RoleService(IRoleRepository _rr)
         {
-            castRepository = _c;
+            roleRepository = _rr;
         }
     }
 }

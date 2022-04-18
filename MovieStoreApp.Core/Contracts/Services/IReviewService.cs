@@ -1,6 +1,6 @@
 namespace MovieStoreApp.Core.Contracts.Services  
 {
-    public interface IUserService {
+    public interface IReviewService {
 
     }
 
