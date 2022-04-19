@@ -16303,8 +16303,13 @@
       "FileKind": "mvc"
     },
     {
-      "FilePath": "/home/user/C#/MovieStoreApp/MovieStoreWebApp.MVC/Views/Admin/Index.cshtml",
-      "TargetPath": "Views\\Admin\\Index.cshtml",
+      "FilePath": "/home/user/C#/MovieStoreApp/MovieStoreWebApp.MVC/Views/Trailer/Index.cshtml",
+      "TargetPath": "Views\\Trailer\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/home/user/C#/MovieStoreApp/MovieStoreWebApp.MVC/Views/Role/Index.cshtml",
+      "TargetPath": "Views\\Role\\Index.cshtml",
       "FileKind": "mvc"
     },
     {
@@ -16328,6 +16333,11 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "/home/user/C#/MovieStoreApp/MovieStoreWebApp.MVC/Views/Review/Index.cshtml",
+      "TargetPath": "Views\\Review\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "/home/user/C#/MovieStoreApp/MovieStoreWebApp.MVC/Views/Home/Privacy.cshtml",
       "TargetPath": "Views\\Home\\Privacy.cshtml",
       "FileKind": "mvc"
@@ -16335,6 +16345,11 @@
     {
       "FilePath": "/home/user/C#/MovieStoreApp/MovieStoreWebApp.MVC/Views/Home/Index.cshtml",
       "TargetPath": "Views\\Home\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/home/user/C#/MovieStoreApp/MovieStoreWebApp.MVC/Views/Purchase/Index.cshtml",
+      "TargetPath": "Views\\Purchase\\Index.cshtml",
       "FileKind": "mvc"
     },
     {
@@ -16353,13 +16368,13 @@
       "FileKind": "mvc"
     },
     {
-      "FilePath": "/home/user/C#/MovieStoreApp/MovieStoreWebApp.MVC/Views/Account/Index.cshtml",
-      "TargetPath": "Views\\Account\\Index.cshtml",
+      "FilePath": "/home/user/C#/MovieStoreApp/MovieStoreWebApp.MVC/Views/Cast/Index.cshtml",
+      "TargetPath": "Views\\Cast\\Index.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "/home/user/C#/MovieStoreApp/MovieStoreWebApp.MVC/Views/Cast/Index.cshtml",
-      "TargetPath": "Views\\Cast\\Index.cshtml",
+      "FilePath": "/home/user/C#/MovieStoreApp/MovieStoreWebApp.MVC/Views/Genre/Index.cshtml",
+      "TargetPath": "Views\\Genre\\Index.cshtml",
       "FileKind": "mvc"
     }
   ],
