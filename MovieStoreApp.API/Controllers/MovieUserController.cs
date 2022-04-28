@@ -9,8 +9,8 @@ namespace MovieStoreApp.API.Controllers
     [ApiController]
     public class MovieUserController: ControllerBase {
 
-        private readonly IMovieUserService movieUserService;
-        public MovieUserController(IMovieUserService _movieUserService)
+        private readonly IMovieUserServiceAsync movieUserService;
+        public MovieUserController(IMovieUserServiceAsync _movieUserService)
         {
             movieUserService = _movieUserService;
         }

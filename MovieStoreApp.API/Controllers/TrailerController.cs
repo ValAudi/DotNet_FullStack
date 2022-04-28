@@ -9,8 +9,8 @@ namespace MovieStoreApp.API.Controllers
     [ApiController]
     public class TrailerController: ControllerBase {
 
-        private readonly ITrailerService trailerService;
-        public TrailerController(ITrailerService _trailerService)
+        private readonly ITrailerServiceAsync trailerService;
+        public TrailerController(ITrailerServiceAsync _trailerService)
         {
             trailerService = _trailerService;
         }

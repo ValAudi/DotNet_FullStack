@@ -9,8 +9,8 @@ namespace MovieStoreApp.API.Controllers
     [ApiController]
     public class GenreController: ControllerBase {
 
-        private readonly IGenreService genreService;
-        public GenreController(IGenreService _genreService)
+        private readonly IGenreServiceAsync genreService;
+        public GenreController(IGenreServiceAsync _genreService)
         {
             genreService = _genreService;
         }

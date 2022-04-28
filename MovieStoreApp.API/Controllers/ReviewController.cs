@@ -9,8 +9,8 @@ namespace MovieStoreApp.API.Controllers
     [ApiController]
     public class ReviewController: ControllerBase {
 
-        private readonly IReviewService reviewService;
-        public ReviewController(IReviewService _reviewService)
+        private readonly IReviewServiceAsync reviewService;
+        public ReviewController(IReviewServiceAsync _reviewService)
         {
             reviewService = _reviewService;
         }

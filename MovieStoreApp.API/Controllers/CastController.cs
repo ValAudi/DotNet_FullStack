@@ -9,8 +9,8 @@ namespace MovieStoreApp.API.Controllers
     [ApiController]
     public class CastController: ControllerBase {
 
-        private readonly ICastService castService;
-        public CastController(ICastService _castService)
+        private readonly ICastServiceAsync castService;
+        public CastController(ICastServiceAsync _castService)
         {
             castService = _castService;
         }

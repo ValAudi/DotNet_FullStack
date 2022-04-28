@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "xnk3EtuqZ1LwxsgXGRuhRcyPvU20Gvzamx4X2gT2h5bWDa6GpJyowhVEdCz3QXSbuIWw13KZB2Q5NeGpaoy7Fg==",
+  "dgSpecHash": "37QF+0Fr8sMrAmsmBQ1d8Q18R6ezmLxpTkBfdFwXfYkmQfw3h+4X01kJlUWZWpAOCzcPvVL/bl7NWMvwhvNAWQ==",
   "success": true,
-  "projectFilePath": "/home/user/C#/MovieStoreApp/MovieStoreWebApp.MVC/MovieStoreWebApp.MVC.csproj",
+  "projectFilePath": "/home/user/CSharp/MovieStoreApp/MovieStoreWebApp.MVC/MovieStoreWebApp.MVC.csproj",
   "expectedPackageFiles": [
     "/home/user/.nuget/packages/humanizer.core/2.8.26/humanizer.core.2.8.26.nupkg.sha512",
     "/home/user/.nuget/packages/microsoft.csharp/4.5.0/microsoft.csharp.4.5.0.nupkg.sha512",

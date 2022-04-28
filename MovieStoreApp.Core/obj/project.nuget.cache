@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "/7fWEl0RBW+3cqMpgGRBBbiqEbPSDtMvo5Z7F01DeLmZr7sgeMzvSv76n3KPAIh+e/u1L20lSuCI5h4TL6wipw==",
+  "dgSpecHash": "05fW9PGJQ4+SGk+hQlfFTfW5Ovw/TJZVouCJ4nH2laTIHwgvxr4t1JfzHK73ZuGonDxg1/ush+l3Sy+vqmDE7g==",
   "success": true,
-  "projectFilePath": "/home/user/C#/MovieStoreApp/MovieStoreApp.Core/MovieStoreApp.Core.csproj",
+  "projectFilePath": "/home/user/CSharp/MovieStoreApp/MovieStoreApp.Core/MovieStoreApp.Core.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

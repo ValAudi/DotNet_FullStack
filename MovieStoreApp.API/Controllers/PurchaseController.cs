@@ -9,8 +9,8 @@ namespace MovieStoreApp.API.Controllers
     [ApiController]
     public class PurchaseController: ControllerBase {
 
-        private readonly IPurchaseService purchaseService;
-        public PurchaseController(IPurchaseService _purchaseService)
+        private readonly IPurchaseServiceAsync purchaseService;
+        public PurchaseController(IPurchaseServiceAsync _purchaseService)
         {
             purchaseService = _purchaseService;
         }

@@ -7,14 +7,14 @@ namespace MovieStoreWebApp.MVC.Controllers
 {
     public class TrailerController : Controller {
 
-        ITrailerService trailerService;
+        ITrailerServiceAsync trailerService;
 
-        public TrailerController(ITrailerService _t)
+        public TrailerController(ITrailerServiceAsync _t)
         {
             trailerService = _t;
         }
         public IActionResult Index() {
-            var result = trailerService.TrailerList();
+            var result = trailerService.ListOfTrailersReleasedByYear;
             return View(result);
         }
     }

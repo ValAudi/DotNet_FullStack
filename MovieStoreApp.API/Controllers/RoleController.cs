@@ -9,8 +9,8 @@ namespace MovieStoreApp.API.Controllers
     [ApiController]
     public class RoleController: ControllerBase {
 
-        private readonly IRoleService roleService;
-        public RoleController(IRoleService _roleService)
+        private readonly IRoleServiceAsync roleService;
+        public RoleController(IRoleServiceAsync _roleService)
         {
             roleService = _roleService;
         }

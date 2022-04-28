@@ -10,3 +10,15 @@
 /home/user/C#/MovieStoreApp/MovieStoreApp.Core/obj/Debug/net6.0/refint/MovieStoreApp.Core.dll
 /home/user/C#/MovieStoreApp/MovieStoreApp.Core/obj/Debug/net6.0/MovieStoreApp.Core.pdb
 /home/user/C#/MovieStoreApp/MovieStoreApp.Core/obj/Debug/net6.0/ref/MovieStoreApp.Core.dll
+/home/user/CSharp/MovieStoreApp/MovieStoreApp.Core/bin/Debug/net6.0/MovieStoreApp.Core.deps.json
+/home/user/CSharp/MovieStoreApp/MovieStoreApp.Core/bin/Debug/net6.0/MovieStoreApp.Core.dll
+/home/user/CSharp/MovieStoreApp/MovieStoreApp.Core/bin/Debug/net6.0/MovieStoreApp.Core.pdb
+/home/user/CSharp/MovieStoreApp/MovieStoreApp.Core/obj/Debug/net6.0/MovieStoreApp.Core.csproj.AssemblyReference.cache
+/home/user/CSharp/MovieStoreApp/MovieStoreApp.Core/obj/Debug/net6.0/MovieStoreApp.Core.GeneratedMSBuildEditorConfig.editorconfig
+/home/user/CSharp/MovieStoreApp/MovieStoreApp.Core/obj/Debug/net6.0/MovieStoreApp.Core.AssemblyInfoInputs.cache
+/home/user/CSharp/MovieStoreApp/MovieStoreApp.Core/obj/Debug/net6.0/MovieStoreApp.Core.AssemblyInfo.cs
+/home/user/CSharp/MovieStoreApp/MovieStoreApp.Core/obj/Debug/net6.0/MovieStoreApp.Core.csproj.CoreCompileInputs.cache
+/home/user/CSharp/MovieStoreApp/MovieStoreApp.Core/obj/Debug/net6.0/MovieStoreApp.Core.dll
+/home/user/CSharp/MovieStoreApp/MovieStoreApp.Core/obj/Debug/net6.0/refint/MovieStoreApp.Core.dll
+/home/user/CSharp/MovieStoreApp/MovieStoreApp.Core/obj/Debug/net6.0/MovieStoreApp.Core.pdb
+/home/user/CSharp/MovieStoreApp/MovieStoreApp.Core/obj/Debug/net6.0/ref/MovieStoreApp.Core.dll
